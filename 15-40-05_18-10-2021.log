@@ -1,0 +1,9 @@
+2021-10-18 15:40:05,148 - SignalGenerator - INFO - Connecting to ('192.168.255.240', 5025)
+2021-10-18 15:40:05,151 - SignalGenerator - DEBUG - Sending: *IDN?
+2021-10-18 15:40:05,152 - SignalGenerator - DEBUG - Received: Rohde&Schwarz,SMW200A,1412.0000K02/102775,4.90.049.47
+2021-10-18 15:40:05,152 - SignalGenerator - INFO - Connected to: Rohde&Schwarz,SMW200A,1412.0000K02/102775,4.90.049.47
+2021-10-18 15:40:05,152 - SignalGenerator - INFO - Setting frequency to 3440000000 Hz
+2021-10-18 15:40:05,153 - SignalGenerator - DEBUG - Sending: :SOURce1:FREQuency:CW 3440000000.0
+2021-10-18 15:40:05,153 - SignalGenerator - INFO - Setting power to -50.0 dBm
+2021-10-18 15:40:05,154 - SignalGenerator - DEBUG - Sending: :SOURce1:POWer:LEVel:IMMediate:AMPLitude -50
+2021-10-18 15:40:05,155 - SignalGenerator - DEBUG - Disconnecting
